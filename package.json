@@ -1,6 +1,6 @@
 {
-  "name": "lab4",
-  "version": "7.7.7",
+  "name": "@<organization-or-usernamename>/lab4",
+  "version": "7.7.7", 
   "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
   "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
   "license": "MIT",
